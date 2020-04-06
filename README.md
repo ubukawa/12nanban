@@ -1,5 +1,5 @@
 # 12nanban
-docker file for 12-produce with nanban
+docker file for 12-produce with nanban (for osm_base)
 
 # How to use
 docker rmi 12nanban  
