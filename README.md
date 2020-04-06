@@ -10,6 +10,6 @@ docker run -it --rm -v ${PWD}:/data 12nanban
  
 cd 12-produce  
 vi config/default.hjson  
-mkdir /data/xxx   //mbtilesDir
+mkdir /data/mbtiles/osmtiles   //mbtilesDir
 
-rake
+rake // or node index.js or node index_africa.js  
